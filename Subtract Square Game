@@ -2,7 +2,6 @@
 program : Subtract Square Game It is a game consisting of two players, The two players first choose either to enter the number of coins themselves or choose a random number from a list of numbers.
 After that, each player chooses a number that has a root before the number they chose, For each number that the player chooses 
 we subtract it from the coins and the player who arrives first... Zero wins the game
-game: game 3
 Author: Omar gafer helal abd elhakim
 id: 20230249
 version : 1.0
